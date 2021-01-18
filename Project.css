@@ -28,29 +28,6 @@ h1 {
     background: #000000;
 }
 
-
-/*nav a{
-	width: 12%;
-	display: inline-block;
-	background: #ff0066;
-	border-radius: 20px;
-	color: #ffffff;
-	text-decoration: none;
-	transition-property: border-radius, color, background;
-	transition-duration: .9s;
-	transition-timing-function: ease;
-} 
-nav a:hover{
-	border-radius: 40%;
-	color: #ffffff;
-	background: #000000;
-}
-.active{
-	background-color: #ffffff;
-	color: #000000;
-}
-*/
-
 section {
     color: #ffffff;
     padding: 20px;
