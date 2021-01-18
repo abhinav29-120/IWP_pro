@@ -165,7 +165,7 @@ $sql2 = "SELECT*FROM `proj_0`.`link_inp`";
 </head>
 <body>
 	<header>
-		<h1>G.P.Y.A</h1>
+		<h1>Security Pal</h1>
 		<nav>
 			<span>
 				<a href="Page1.html" class="active">Home</a>
@@ -185,7 +185,7 @@ $sql2 = "SELECT*FROM `proj_0`.`link_inp`";
         <fieldset class="account-info">
            <label>
                Domain Name
-               <input class="pg1" type="url" name="url" id="url" placeholder="url" required>
+               <input class="pg1" type="url" name="url" id="url" placeholder="Please enter the url" required>
            </label>
         </fieldset>
         <fieldset class="account-action">
@@ -210,11 +210,11 @@ $sql2 = "SELECT*FROM `proj_0`.`link_inp`";
 		<br><br><br>
 		<nav>
 			<span>
-				<a href="Page1.html" class="active">Home</a>
-				<a href="Page2.html">About</a>
-				<a href="Page3.html">Types</a>
-				<a href="Page4.html">Techniques</a>
-				<a href="Page5.html">Safety</a>
+				<a href="Page1.html"class="hbtn hb-border-bottom-br3">Home</a>
+				<a href="Page2.html"class="hbtn hb-border-bottom-br3">About</a>
+				<a href="Page3.html"class="hbtn hb-border-bottom-br3">Types</a>
+				<a href="Page4.html"class="hbtn hb-border-bottom-br3">Techniques</a>
+				<a href="Page5.html"class="hbtn hb-border-bottom-br3">Safety</a>
 			</span>
 		</nav>
 		<h4>Thanks for visiting. Stay safe and stay secure</h4>
