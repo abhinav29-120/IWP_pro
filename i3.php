@@ -21,22 +21,6 @@ function get_domain($url)
   return false;
 }
 $domain = get_domain($url).'<br>';
-//echo $domain;
-/*
-//false domain_check_1
-$parse = parse_url($url);
-$domain = $parse['host'];
-$domain = str_ireplace('www.', '', $domain);
-echo $domain,'<br>';
-*/
-
-//Subdomain check_1
-/*
-$parsedUrl = parse_url($url);
-$host = explode('.', $parsedUrl['host']);
-$subdomain = $host[0];
-echo $subdomain,'<br>';
-*/
 
 //for multiple subdomains
 $parsedUrl = parse_url($url);
